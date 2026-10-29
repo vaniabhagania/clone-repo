@@ -56,3 +56,6 @@ next-env.d.ts
 /e2e/.auth/
 /playwright-report/
 /test-results/
+
+# Written by run.sh on ARM machines
+compose.override.yml
